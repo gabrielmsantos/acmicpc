@@ -16,6 +16,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* To my wife that put up with me every single day and is always smiling :)
+* To my wife, Juliana, for putting up with me every single day and even though being always smiling :)
 
 

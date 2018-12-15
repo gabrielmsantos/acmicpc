@@ -1,3 +1,7 @@
+/**
+ *      Purpose: Solution for problem H from ICPC 2018
+ *      @author gabrielmsantos@gmail.com
+**/
 #include <iostream>
 #include <fstream>
 #include <math.h>
@@ -17,7 +21,7 @@ struct point
 };
 
 /***
- * Functor that will be used to compare the point pointers when inserting in the set.
+ * Functor that will be used to compare the point pointers when inserting it in the set.
  */
 struct comparer
 {

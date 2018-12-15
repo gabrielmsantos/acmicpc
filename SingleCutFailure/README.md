@@ -16,6 +16,6 @@ In order to find the solution, we need to take these steps:
     3-  Check if the solution found is on the same side of the door. If so, move it to the next point of a different side. # O(1)
 ```
 ```
-    4- If there is no single cut solution the DIAGONALS
+    4- If there is no single cut solution, then DIAGONALS
 ```
 
